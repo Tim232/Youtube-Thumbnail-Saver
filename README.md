@@ -2,7 +2,7 @@
 
 ### How to use
 
-1. https://marshall-ku.github.io/Youtube-Thumbnail-Saver/
+1. https://endbot.ml/Youtube-Thumbnail-Saver/
 2. Paste Youtube video's url or video's ID
 3. Click "Export" button
 
